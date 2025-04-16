@@ -26,7 +26,10 @@ I'm a biomedical engineering undergrad who loves blending tech and biology — w
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quartus-FF6C00?style=for-the-badge&logo=Intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fritzing-9A5B30?style=for-the-badge&logo=fritzing&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
+
 
 
 ---
