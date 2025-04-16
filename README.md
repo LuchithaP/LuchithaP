@@ -51,8 +51,7 @@ I'm a biomedical engineering undergrad who loves blending tech and biology — w
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [luchitha.dev](https://yourpersonalwebsite.com) *(optional)*
-- 📸 [Instagram](https://instagram.com/yourhandle)
+
 - 🧑‍🔬 [LinkedIn](https://www.linkedin.com/in/luchitha-perera-998312248/)
 
 ---
