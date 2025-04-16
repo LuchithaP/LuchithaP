@@ -1,6 +1,17 @@
-### 👋 Hello there! I'm Luchitha
+# 👋 Hi there, I'm Luchitha!  
+🎓 Biomedical Engineering Undergraduate | 💻 Embedded Systems | 🧠 Brain-Computer Interfaces | ⚙️ Hardware Design
 
-I'm a biomedical engineering undergrad who loves blending tech and biology — whether it's building health monitoring devices, diving into signal processing, or bringing fuzzy logic to life on an Arduino. I also play field hockey, and sometimes get lost in Arcane-inspired designs ⚙️🧠⚡
+I'm a passionate engineering student from Sri Lanka, exploring the intersections of **biomedical technology**, **embedded systems**, and **AI for healthcare**. I enjoy building solutions that bridge the gap between biology and electronics—from **ECG signal generators** to **fuzzy logic-based medical decision systems**.
+
+---
+
+## 💡 Areas of Interest:
+- 🧠 EEG-based Brain-Computer Interfaces (BCIs)  
+- 🔧 Analog & Digital Sensor Design (Wheatstone bridges, Instrumentation Amps)  
+- 📟 Microcontroller Programming (ESP32, Arduino, STM32)  
+- 🌡️ Biomedical Monitoring Devices (ECG, SpO2, Temp Sensors)  
+- 🧠 AI & Fuzzy Logic for Smart Health Diagnostics  
+- 📐 PCB Design (Altium Designer, KiCad)
 
 ---
 
@@ -34,14 +45,7 @@ I'm a biomedical engineering undergrad who loves blending tech and biology — w
 
 ---
 
-### 🧠 Current Interests
-- Biomedical signal acquisition & analysis
-- Fuzzy logic & AI for medical decisions
-- Real-time monitoring with ESP32
-- PCB design & embedded systems
-- Brain-computer interfaces with EEG
 
----
 
 ### 🔥 Fun Facts
 - 💻 I turn sensors + code into real-life devices
