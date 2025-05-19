@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luchitha!  
+# 👋 Hi there, I'm Luchitha Perera!  
 🎓 Biomedical Engineering Undergraduate | 💻 Embedded Systems | 🧠 Brain-Computer Interfaces | ⚙️ Hardware Design
 
 I'm a passionate engineering student from Sri Lanka, exploring the intersections of **biomedical technology**, **embedded systems**, and **AI for healthcare**. I enjoy building solutions that bridge the gap between biology and electronics—from **ECG signal generators** to **fuzzy logic-based medical decision systems**.
