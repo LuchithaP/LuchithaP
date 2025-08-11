@@ -23,6 +23,7 @@ I'm a passionate engineering student from Sri Lanka, exploring the intersections
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-E4211C?style=for-the-badge&logo=solidworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-FF6C00?style=for-the-badge&logoColor=white"/>
@@ -38,6 +39,7 @@ I'm a passionate engineering student from Sri Lanka, exploring the intersections
   <img src="https://img.shields.io/badge/Quartus-FF6C00?style=for-the-badge&logo=Intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fritzing-9A5B30?style=for-the-badge&logo=fritzing&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
