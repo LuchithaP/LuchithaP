@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/LuchithaP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Biosignals+%E2%80%94+ECG+%26+EEG+processing;Machine+Learning+%26+Deep+Learning;Genomics+%E2%80%94+genomic+signal+processing;Brain-computer+interfaces+%F0%9F%A7%A0;AI-assisted+engineering+%E2%9A%A1" alt="Typing animation of my interests"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Biosignals+%E2%80%94+ECG+%26+EEG+processing;Deep+Learning+%E2%80%94+CNNs%2C+Transformers+%26+CLIP;Now%3A+Few-Shot+Class-Incremental+Learning;Genomics+%E2%80%94+genomic+signal+processing;Brain-computer+interfaces+%F0%9F%A7%A0;AI-assisted+engineering+%E2%9A%A1" alt="Typing animation of my interests"/>
   </a>
 </p>
 
@@ -19,10 +19,12 @@
 
 I'm a Biomedical Engineering undergraduate at the **University of Moratuwa, Sri Lanka**. My work sits at the meeting point of **biosignals**, **machine learning / deep learning** and **genomics**: getting clean, meaningful information out of noisy biological data and turning it into models that can support diagnosis.
 
+> 🔭 **Currently working on:** **Few-Shot Class-Incremental Learning (FSCIL)**: deep models that learn new classes from only a few examples without forgetting the ones they already know.
+
 ### What I work on
 
 - 📈 **Biosignals:** ECG and EEG processing: denoising (Kalman filtering, EMD, wavelets), estimation, and EEG-based brain-computer interfaces (SSVEP, motor imagery)
-- 🤖 **Machine learning & deep learning:** classifiers for biosignals (CNNs, CCA / FBCCA, Riemannian methods) and deep learning for medical imaging (CT, MRI)
+- 🤖 **Machine learning & deep learning:** deep architectures from **CNNs** to **Transformers** and attention-based models, **vision and vision-language models** (CLIP / CoN-CLIP),  **few-shot class-incremental learning**, Deep Learning for Biosignals and medical imaging (CT, MRI classification and segmentation), alongside classical methods (CCA / FBCCA, Riemannian classifiers)
 - 🧬 **Genomics:** genomic signal processing: sequence alignment and motif / promoter discovery in bacterial genomes
 
 I also use AI tools to work fast and reproducibly ([see below](#-ai-assisted-workflow)). I build the hardware that records the signals (instrumentation amplifiers, analog filters, ESP32 / Arduino), and I play hockey 🏑.
@@ -87,12 +89,9 @@ I use AI tools as part of my everyday engineering workflow to move from idea to 
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<!-- Add any other AI tools you use, e.g.:
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
--->
-
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 - 🧭 **Planning & research:** breaking an assignment or paper into steps, understanding unfamiliar methods quickly, and reading papers in depth before reproducing them
 - 💻 **AI pair-programming:** scaffolding signal-processing and ML pipelines (Python / MATLAB), refactoring notebooks into clean, reproducible scripts, and writing tests and checks
 - 🐞 **Debugging:** tracking down root causes of wrong results, numerical issues and failing code instead of patching symptoms
@@ -116,6 +115,7 @@ I use AI tools as part of my everyday engineering workflow to move from idea to 
 
 | Project | What it is | Stack |
 |---|---|---|
+| 👁️‍🗨️ [CoN-CLIP: Teaching CLIP to Understand "No"](https://github.com/LuchithaP/CoN-CLIP-Project) | Team reimplementation of the WACV 2025 paper *Learning the Power of "No": Foundation Models with Negations*: fine-tunes CLIP (ViT backbones) with a negation-aware contrastive loss on the CC-Neg dataset, then benchmarks CLIP, CoN-CLIP, BLIP and FLAVA on negation understanding (CC-Neg) and compositional reasoning (SugarCREPE) | Python · PyTorch · CLIP |
 | 🧠 [EEG-based Communication System for Paralysed Patients](https://github.com/LuchithaP/EEG-based-communication-system-for-paralysed-patients) | Non-invasive EEG system that turns brain activity into "Yes"/"No" answers for locked-in and quadriplegic patients: gold-cup electrodes, NeuroSky ThinkGear front-end, ESP32 and a 1D-CNN classifier | Python · TensorFlow · ESP32 |
 | 🫁 [PulmoAI](https://github.com/LuchithaP/PulmoAi) | COVID-19 diagnosis from lung CT scans with a CNN trained on two combined Kaggle datasets | Python · TensorFlow |
 | 🩻 [Brain Tumor Detection & Segmentation App](https://github.com/LuchithaP/Brain-Tumor-Detection-App) | Web app that classifies brain MRIs as tumour / no tumour and highlights the tumour region with a segmentation model | TensorFlow · OpenCV · Streamlit |
@@ -129,6 +129,7 @@ I use AI tools as part of my everyday engineering workflow to move from idea to 
 <details>
 <summary><b>More projects</b></summary>
 
+- 🖼️ [Vision-Sem-7](https://github.com/LuchithaP/Vision-Sem-7): deep learning from first principles on CIFAR-10: hand-written backpropagation, custom optimizers, and CNNs with batch norm, residual connections and regularisation (cutout, mixup, weight decay)
 - 🧠 [Hackathon](https://github.com/LuchithaP/Hackathon): EEG decoding on a stroke-rehabilitation dataset with Riemannian-geometry classifiers (MDRM, FgMDRM, filter-bank TS-LDA)
 - ⌚ [Portable & Wearable Stress Monitoring Device](https://github.com/LuchithaP/Portable-and-Wearable-Stress-Monitoring-Device): ESP12E wearable that estimates stress from GSR, skin temperature, heart rate and SpO₂
 - 💪 [EMG-based Strength Indicator](https://github.com/LuchithaP/EMG-based-Strength-Indicator): analog EMG front-end (INA128, Sallen-Key filters, precision rectifier) driving an LED strength bar
@@ -154,12 +155,12 @@ I use AI tools as part of my everyday engineering workflow to move from idea to 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuchithaP&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
 </p>
 
-<!-- The snake below is drawn by .github/workflows/snake.yml. It appears after that workflow has run once (Actions tab → "Generate snake" → Run workflow). -->
+<!-- The snake below is drawn by .github/workflows/snake.yml. If it ever looks stuck, bump the ?v= number in the three links. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake.svg?v=2"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/LuchithaP/LuchithaP/output/github-contribution-grid-snake.svg?v=2"/>
   </picture>
 </p>
 
