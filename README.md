@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/LuchithaP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Biosignals+%E2%80%94+ECG+%26+EEG+processing;Deep+Learning+%E2%80%94+CNNs%2C+Transformers+%26+CLIP;Now%3A+Few-Shot+Class-Incremental+Learning;Genomics+%E2%80%94+genomic+signal+processing;Brain-computer+interfaces+%F0%9F%A7%A0;AI-assisted+engineering+%E2%9A%A1" alt="Typing animation of my interests"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Biosignals+%E2%80%94+ECG+%26+EEG+ EMG processing;Deep+Learning+%E2%80%94+CNNs%2C+Transformers+%26+VLMs;;Genomics+%E2%80%94+genomic+signal+processing;Brain-computer+interfaces+%F0%9F%A7%A0;AI-assisted+engineering+%E2%9A%A1" alt="Typing animation of my interests"/>
   </a>
 </p>
 
